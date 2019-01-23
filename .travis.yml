@@ -25,6 +25,6 @@ deploy:
     secure: G6jTMM0MGloaCXOSP/uDeCyifrUYPi/xGl3ipDlo/FYjKvE1jFaVphtNcdZcS3o/cRvMW9UmImuJOtMFSqxY7ifatAodhHeeTSIFYTM8+eOi0RMK1gCauc+TT2ywbQgvsqqyHx01xidrobLaHEFULP6VMGjq80IzL8LiXT/7QDJpeCqAhc+LiaL+cqm/HgE7sjTvy+KhpiWC2nBOXYAZhKIt+f28HLNlcEyhoIvwJwVDK8GU7TvaRjHq2/oPidDFYugqxcjPrpx5eOQtaxVA9wXJ1+uPUG+hh4m3EgDXZL19XeEjFueRug4pV72akivsSThvVJN0D/YA+IgqemargiZmyS67194wr7oh1zPKh8tX0zt1Ehgf52IYnodgx5Q3b75gbhrDCP/5mltObUEEOTndSlNGy5zOKYn7hRHl/4y66qWtWVjpptxLnt9PtAwueoctXmGDCnMmgTy+WLCPiWenYO711hBeHNi4o1O7v/FO4z10mMY7uH+HKPnlcA2wAu5zhfVS/4xyWH/Bm5d1BBYuqakrzo0JBUhjcKvw7RIEnd4xcrVuunybFg3ThixsWwX5913YWzo5Eh5JvnhCB5F2eXm2+hKu79w9Nz8x8PsyGUnp8d7ywQBvUG9hRZ1xxe7T9D5ceOEH/wLuRzwTDS2dI11B0IJUFcqF30D8dhQ=
   bucket: gitbook-testing
   local-dir: _book
-  upload-dir: test-source-book
+  upload-dir: fme-desktop-basics
   acl: public_read
   skip_cleanup: true
